@@ -10,6 +10,6 @@ https://stackoverflow.com/questions/25305806/yii-2-migrations-for-test-database
  
  # 3 change app name 
  
- https://arjunphp.com/yii2-change-app-name/#:~:text=Yii2%20Default%20application%20name%20is,name%20property%20in%20Config%20Array.
+https://stackoverflow.com/questions/44087955/how-to-change-standard-yii2-app-name-my-application/44088084
 
 
