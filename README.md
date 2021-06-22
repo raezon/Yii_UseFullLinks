@@ -16,4 +16,7 @@ https://stackoverflow.com/questions/44087955/how-to-change-standard-yii2-app-nam
 
 https://stackoverflow.com/questions/58796920/form-action-url-not-working-in-yii2-framework
 
+# 5 yii2 remove summary/count from ListView
+
+https://stackoverflow.com/questions/28909062/yii2-remove-summary-count-from-listview
 
