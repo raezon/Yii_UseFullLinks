@@ -20,3 +20,6 @@ https://stackoverflow.com/questions/58796920/form-action-url-not-working-in-yii2
 
 https://stackoverflow.com/questions/28909062/yii2-remove-summary-count-from-listview
 
+# 6 Yii2 Default Route 
+https://stackoverflow.com/questions/25666205/how-to-set-the-default-controller-in-yii2
+
