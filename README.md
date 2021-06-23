@@ -23,3 +23,6 @@ https://stackoverflow.com/questions/28909062/yii2-remove-summary-count-from-list
 # 6 Yii2 Default Route 
 https://stackoverflow.com/questions/25666205/how-to-set-the-default-controller-in-yii2
 
+# 7 Docker config for mysql
+https://hub.docker.com/r/mysql/mysql-server
+
