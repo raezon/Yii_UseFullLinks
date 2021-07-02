@@ -26,3 +26,6 @@ https://stackoverflow.com/questions/25666205/how-to-set-the-default-controller-i
 # 7 Docker config for mysql
 https://hub.docker.com/r/mysql/mysql-server
 
+#8 Authorisation for usario 
+ you must use a certain way on the behaviours of each controller
+https://stackoverflow.com/questions/46221625/yii2-access-control-by-roles-how-can-i-add-or-condition
