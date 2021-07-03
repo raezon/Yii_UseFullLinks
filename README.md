@@ -32,5 +32,6 @@ https://stackoverflow.com/questions/46221625/yii2-access-control-by-roles-how-ca
 
 # 9 GridView Filter OnkeyPress
 the trick you will apply an evenlistener onkeypress and call $("#grid-id").yiiGridView("applyFilter"); this is the jquery code prebuild of gridview you need just to fire it 
-you can find the solution here 
+you can find the solution here .
+
 https://stackoverflow.com/questions/28363461/filter-as-you-type-in-yii2-gridview
