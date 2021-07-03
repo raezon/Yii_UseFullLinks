@@ -26,11 +26,11 @@ https://stackoverflow.com/questions/25666205/how-to-set-the-default-controller-i
 # 7 Docker config for mysql
 https://hub.docker.com/r/mysql/mysql-server
 
-#8 Enhance Authorisation for usario 
+# 8 Enhance Authorisation for usario 
  you must use a certain way on the behaviours of each controller
 https://stackoverflow.com/questions/46221625/yii2-access-control-by-roles-how-can-i-add-or-condition
 
-#9 GridView Filter OnkeyPress
+# 9 GridView Filter OnkeyPress
 the trick you will apply an evenlistener onkeypress and call $("#grid-id").yiiGridView("applyFilter"); this is the jquery code prebuild of gridview you need just to fire it 
 you can find the solution here 
 https://stackoverflow.com/questions/28363461/filter-as-you-type-in-yii2-gridview
