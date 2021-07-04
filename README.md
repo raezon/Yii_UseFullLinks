@@ -39,17 +39,3 @@ https://stackoverflow.com/questions/28363461/filter-as-you-type-in-yii2-gridview
 # 10 using data neeseted in another table 2 levels
 https://github.com/yiisoft/yii2/issues/10878#issuecomment-185116346
 # 11 handling error while using createCommands query
-`try{
-        $db->createCommand()->insert('{{%notifications}}', [
-            'class' => strtolower(substr($className, strrpos($className, '\\')+1, -12)),
-            'key' => $notification->key,
-            'message' => (string)$notification->getTitle($decaissement_motif,$decaissement_montant,$username),
-            'route' => serialize($notification->getRoute()),
-            'user_id' =>$notification->user->id,
-            'decaissementhistorique_id'=>(integer) $notification->decaissement_id,
-            'created_at' => $currTime,
-        ])->execute();
-      } catch(\Exception $e){
-        echo $e->getMessage(). " <pre>".$e->getTraceAsString()."</pre>";
-        die();
-    }`
