@@ -38,3 +38,5 @@ https://stackoverflow.com/questions/28363461/filter-as-you-type-in-yii2-gridview
 
 # 10 using data neeseted in another table 2 levels
 https://github.com/yiisoft/yii2/issues/10878#issuecomment-185116346
+# 11 handling error while using createCommands query
+
