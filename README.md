@@ -41,3 +41,5 @@ https://github.com/yiisoft/yii2/issues/10878#issuecomment-185116346
 # 11 handling error while using createCommands query
 # 12 installing composer without any interaction with php extenstion 
 composer install --ignore-platform-req=php --ignore-platform-req=ext-zip
+# 13 Pusher notification
+https://github.com/pusher/pusher-http-php
