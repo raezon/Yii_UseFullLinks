@@ -45,3 +45,5 @@ composer install --ignore-platform-req=php --ignore-platform-req=ext-zip
 https://github.com/pusher/pusher-http-php
 # 14 optimisation yii2 application
 https://medium.com/@mazraara/how-to-optimize-yii-web-apps-d2be2e52dd3c
+# 15 yii2 and angular js
+http://vybeauregard.github.io/Yii2-angular/
