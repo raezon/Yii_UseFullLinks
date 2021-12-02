@@ -43,3 +43,5 @@ https://github.com/yiisoft/yii2/issues/10878#issuecomment-185116346
 composer install --ignore-platform-req=php --ignore-platform-req=ext-zip
 # 13 Pusher notification
 https://github.com/pusher/pusher-http-php
+# 14 optimisation yii2 application
+https://medium.com/@mazraara/how-to-optimize-yii-web-apps-d2be2e52dd3c
