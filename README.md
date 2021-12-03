@@ -47,3 +47,5 @@ https://github.com/pusher/pusher-http-php
 https://medium.com/@mazraara/how-to-optimize-yii-web-apps-d2be2e52dd3c
 # 15 yii2 and angular js
 http://vybeauregard.github.io/Yii2-angular/
+# 16 issue with the duration of authentificated user
+https://github.com/raezon/Yii_UseFullLinks/blob/master/Solutions/extendUserValidity.md
