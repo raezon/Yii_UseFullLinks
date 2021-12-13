@@ -49,3 +49,5 @@ https://medium.com/@mazraara/how-to-optimize-yii-web-apps-d2be2e52dd3c
 http://vybeauregard.github.io/Yii2-angular/
 # 16 issue with the duration of authentificated user
 https://github.com/raezon/Yii_UseFullLinks/blob/master/Solutions/extendUserValidity.md
+# 17  configuration web.config on iis to hide index.php
+https://makeitspendit.com/yii-how-to-hide-index-php-in-urls-on-windows-server-iis/
