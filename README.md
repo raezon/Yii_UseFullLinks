@@ -53,5 +53,7 @@ https://github.com/raezon/Yii_UseFullLinks/blob/master/Solutions/extendUserValid
 https://makeitspendit.com/yii-how-to-hide-index-php-in-urls-on-windows-server-iis/
 # 18 defining senarious for more custom model rules
  https://www.yiiframework.com/wiki/266/understanding-scenarios
+# 19 rewrite rule www instead of no www
+ https://www.it-swarm-fr.com/fr/iis/web.config-redirige-les-non-www-vers-www/1040907328/
 # good website for yii2 solution
 https://applerinquest.com/how-to-create-the-module-in-yii2/
