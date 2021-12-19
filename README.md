@@ -51,5 +51,7 @@ http://vybeauregard.github.io/Yii2-angular/
 https://github.com/raezon/Yii_UseFullLinks/blob/master/Solutions/extendUserValidity.md
 # 17  configuration web.config on iis to hide index.php
 https://makeitspendit.com/yii-how-to-hide-index-php-in-urls-on-windows-server-iis/
+# 18 defining senarious for more custom model rules
+ https://www.yiiframework.com/wiki/266/understanding-scenarios
 # good website for yii2 solution
 https://applerinquest.com/how-to-create-the-module-in-yii2/
