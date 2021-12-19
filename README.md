@@ -55,5 +55,7 @@ https://makeitspendit.com/yii-how-to-hide-index-php-in-urls-on-windows-server-ii
  https://www.yiiframework.com/wiki/266/understanding-scenarios
 # 19 rewrite rule www instead of no www
  https://www.it-swarm-fr.com/fr/iis/web.config-redirige-les-non-www-vers-www/1040907328/
+# 20  href inside form
+https://stackoverflow.com/questions/34419511/yii2-submit-form-value-by-hyperlink
 # good website for yii2 solution
 https://applerinquest.com/how-to-create-the-module-in-yii2/
